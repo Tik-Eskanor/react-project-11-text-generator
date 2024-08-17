@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-project-11-text-generator/static/css/main.7fa7660f.css",
+    "main.js": "/react-project-11-text-generator/static/js/main.25309ee2.js",
+    "index.html": "/react-project-11-text-generator/index.html",
+    "main.7fa7660f.css.map": "/react-project-11-text-generator/static/css/main.7fa7660f.css.map",
+    "main.25309ee2.js.map": "/react-project-11-text-generator/static/js/main.25309ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa7660f.css",
+    "static/js/main.25309ee2.js"
+  ]
+}
